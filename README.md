@@ -1,8 +1,8 @@
-<h2 style="text-align:center;"> Steven Festenstein - Staff Software Engineer <br> <span style="font-size:0.6em;">Syracuse NY, (315)-288-0885</span></h2>
+<h2 style="text-align:center;"> Steven Festenstein - Staff Software Engineer <br> <span style="font-size:0.6em;">Syracuse NY</span></h2>
 
 <div align="center">
 
-[steven.festenstein@yahoo.com](mailto:steven.festenstein@yahoo.com) | [github.com/sfestenstein](https://github.com/sfestenstein) | [linkedin.com/in/steven-festenstein](https://linkedin.com/in/steven-festenstein)
+[steven.festenstein@yahoo.com](mailto:steven.festenstein@yahoo.com) | [github.com/festensoft](https://github.com/festensoft) | [linkedin.com/in/steven-festenstein](https://linkedin.com/in/steven-festenstein)
 
 </div>
 
@@ -10,59 +10,52 @@
 
 ## Overview
 
-Staff Software Engineer with over 25 years of experience designing high-performance applications using C++, Java, and Python. Specializes in object-oriented programming, GUI development, and RF Systems.  Experience with Real Time Operating Systems (RTOS), embedded development, and distributed systems, with a proven track record of delivering quality software solutions and leading technical training for engineering teams.
+Staff Software Engineer with 30 years experience designing high-performance applications using C++, Qt, Java, and Python. Specializes in SOLID object-oriented programming, GUI development, and passive Electronic Warfare. Experience with Real-Time Operating Systems (RTOS), embedded development, and distributed systems, with a proven track record of delivering quality software solutions and leading technical training for engineering teams.
 
-## Critical Skills
+## Core Skills
 
-- Expert in object-oriented programming with C++.
+- Expert in SOLID object-oriented programming with C++.
 - Skilled in GUI development using C++ and QML with the Qt Framework.
-- Proficient in designing distributed applications using ZeroMQ and Google Protocol Buffers.
-- GCC, G++, Clang, CMake, QMake, and GNU Make for cross-platform development.
+- GCC, Clang, CMake, QMake, and GNU Make for cross-platform development.
+- Distributed systems design with ZeroMQ, gRPC, and DDS.
+- AI-Assisted Software Development.
 - Long history of working on RF systems.
-- Embedded Development with VxWorks, LynxOS, and PetaLinux.
-- DDS and CORBA for distributed systems on Linux, Windows, Lynxos, and VxWorks.
+- Embedded development with VxWorks, LynxOS, and PetaLinux.
 - Java development with expertise in JavaFX and Swing for GUI applications.
 - .NET, C#, Java, and Python for diverse software solutions.
-- Git, Subversion, GitLab, Atlassian tool suite.
 - Scrum-based Agile development methodologies.
 - Technical Trainer: developed and presented training modules to large audiences.
-- MERN Full Stack Development (MongoDB, Express, React, Node.js) 
-- Agentic App Development: https://www.football-squares.com
-
 
 ## Experience
 
-#### Staff Software Engineer, Lockheed Martin - Syracuse, October 1996 to Present
+### Staff Software Engineer, Lockheed Martin - Syracuse, October 1996 to Present
 
-*SEWIP Block 2*
-- HMI development by porting legacy Java code to C++/Qt. Modernized the build process using CMake and updated developer tools to industry standards.  Also updated the embedded backend in VxWorks to assist with calibration and report system health.
+#### AI/ML Engineer at the Lockheed Artificial Intelligence Center (LAIC) - March 2026 to Present
+Co-developed the StarOS C++ Software Development Kit. Designed and deployed plugin-style libraries for multiple platforms.  Employed modern standards and development processes.  Leveraged containerized development and AI coding assistants to maximize quality and productivity. 
 
-*Terrestrial Layer System (TLS) Development*
-- Consulted and later developer with the UI Team.  Implemented a geographic map application to paint tracks on top of a map that can be panned and zoomed, much like Google Maps.  Updated build process to use CMake.  Updated internal data models to use relational databases (SQLite and MySQL).  Addressed software defects, stability, and performance.
+#### SEWIP Block 2 - April 2025 to May 2026
+Developed HMIs by porting legacy Java code to C++/Qt. Modernized the build process using CMake and updated developer tools to industry standards.  Also updated the embedded backend in VxWorks to assist with calibration and report system health.
 
-*Shipboard Panoramic Electro-Optical Infra-Red (SPEIR) - HMI Lead*
-- Led a team of 4 engineers to develop front-end software for the SPEIR program, using Qt framework and C++ on RHEL 8.  Employed video streaming technology to display multiple videos from various imaging sensors on Naval Surface Vessels.  Developed an OpenGL Video Player to render streaming videos in H264 and H265 format.  Developed middleware using ZeroMQ and Google Protocol Buffers to interact with backend. 
+#### Terrestrial Layer System (TLS) UI Team - April 2024 to April 2025
+Implemented a geographic map application to paint tracks on top of a map that can be panned and zoomed, much like Google Maps.  Updated build process to use CMake.  Updated internal data models to use relational databases (SQLite and MySQL).  Addressed software defects, stability, and performance.
 
-*BLQ-10 (Subsurface Electronic Warfare)*
-- OMI Working Group Software Lead, developed next-generation user interfaces from scratch.  Took responsibility of all aspects of SW Development.  Led a team to implement SW features and updates under demanding timelines.  Employed OpenGL and the Qt framework with C++ to create an attractive and responsive user interface. Prepared SW for customer demonstration and feedback every 6-8 weeks.
-- Developed front-end software in Java Swing and later in C++ with the Qt Framework.  Employed OpenGL to render large data sets quickly.  Used DDS for inter-process communication.  Interfaced with multiple SQL databases.  Engaged in many aspects of Electronic Warfare.
+#### Shipboard Panoramic Electro-Optical Infrared (SPEIR) - HMI Lead - March 2023 to April 2024
+Led a team of 4 engineers to develop front-end software for the SPEIR program, using Qt Framework and C++ on RHEL 8.  Employed video streaming technology to display multiple videos from various imaging sensors on naval surface vessels.  Developed an OpenGL Video Player to render streaming videos in H.264 and H.265 format.  Developed middleware using ZeroMQ and Google Protocol Buffers to interact with backend. 
 
-*Further Experience on Request*
+#### BLQ-10 (Subsurface Electronic Warfare) - 2015 to 2023
+OMI Working Group Software Lead; developed next-generation user interfaces from scratch.  Took responsibility for all aspects of SW Development.  Led a team to implement software features and updates under demanding timelines.  Employed OpenGL and the Qt framework with C++ to create an attractive and responsive user interface. Prepared software for customer demonstration and feedback every 6-8 weeks.
 
-#### Technical Interviewer, Lockheed Martin
-
+#### Technical Interviewer - 2014 to Present
 - Conducted hundreds of interviews for software roles, including interns, experienced professionals, and contractors.
 - Designed coding exercises and technical questions to streamline the interview process.
 - Significantly reduced employee turnover.
 
-#### Technical Trainer
+#### Technical Trainer - 2018 to Present
 - Developed and delivered a nine-part C++ curriculum for new software engineers. Conducted the curriculum in front of hundreds of participants.
 - Created a two-part course on OpenGL and Qt Framework, enhancing team capabilities in GUI development.
 - Presented advanced C++ lectures: "CMake Project Management" and "Distributed Computing with ZeroMQ." 
 
-## Clearance
-- Active Secret Clearance, U.S. Government, held since 1996 (last renewed 2023).
-- Top Secret (Interim) Clearance, U.S. Government, granted in 2024.
+*Further Experience on Request*
 
 ## Education
 - **Bachelor of Science in Electrical Engineering (Signal Processing)**  
@@ -70,3 +63,14 @@ Staff Software Engineer with over 25 years of experience designing high-performa
 
 - **Bachelor of Science in Physics (Mathematical Physics and Astrophysics)**  
   State University of New York at Fredonia  *[1994-1996]*
+
+## Personal Software Projects
+
+#### Radio Wizard - github.com/festensoft/RadioWizard
+Linux and macOS SDR application in the style of GQRX, but more attractive and easier to use.
+
+#### Omniscope DDS - github.com/festensoft/OmniscopeDDS
+Linux and macOS application to snoop and debug DDS traffic.  C++ backend with HTML/CSS frontend.
+
+#### Football Squares - [football-squares.com](https://football-squares.com)
+AI Assisted web application using React. Implements a novel football (Super Bowl) board.
